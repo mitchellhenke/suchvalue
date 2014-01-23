@@ -1,0 +1,31 @@
+{
+  "name": "suchvalue",
+  "version": "1.0.0",
+  "description": "A little Node script that returns the current value of your Dogecoin in USD.",
+  "keywords": [
+    "dogecoin"
+  ],
+  "author": "Nick Sergeant <nick@nicksergeant.com> (http://nicksergeant.com)",
+  "homepage": "https://github.com/nicksergeant/suchvalue",
+  "main": "lib",
+  "engines": {
+    "node": ">= 0.10.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nicksergeant/suchvalue.git"
+  },
+  "bugs": {
+    "email": "nick+suchvalue@nicksergeant.com",
+    "url": "https://github.com/nicksergeant/suchvalue/issues"
+  },
+  "licenses": [],
+  "dependencies": {
+    "cli-color": "~0.2.3",
+    "q": "~1.0.0"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "suchvalue": "lib/suchvalue.js"
+  }
+}
