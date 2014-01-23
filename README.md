@@ -21,7 +21,21 @@ USD, and return it.
 
 Returns:
 
-``
+`1 doge in USD
+-------------
+$0.00158285
+
+DAqKq1SG9abegwcpPEcdmYsr4NWfZSZLA6
+----------------------------------
+839.34595578 doge / $1.328558746106373
+
+DAYrpmB2mVGZeRdLRmz2Jwf5VccN7t3nRf
+----------------------------------
+146072.7779338 doge / $231.21129655251534
+
+Total value
+-----------
+$232.53985529862175`
 
 Donations
 ---------
