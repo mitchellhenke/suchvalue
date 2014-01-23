@@ -1,6 +1,6 @@
 {
   "name": "suchvalue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A little Node script that returns the current value of your Dogecoin in USD.",
   "keywords": [
     "dogecoin"
